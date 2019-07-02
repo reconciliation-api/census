@@ -1,4 +1,11 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.4"
 
+title: "Reconciliation census"
+name: "W3C Entity Reconciliation Community Group"
+description: "A collaborative map of the reconciliation ecosystem"
+
+url: "https://reconciliation-api.github.io/census/"
+repository: "reconciliation-api/census"
+
 plugins:
   - jekyll-include-cache
