@@ -1,9 +1,12 @@
 ---
 layout: single
-title: Clients
+title: Known clients
 permalink: /clients/
 ---
 
-## Known clients
+This page lists software packages which interact with reconciliation
+services using the reconciliation API.
 
-* OpenRefine
+* [OpenRefine](http://openrefine.org/)
+* Any other?
+
