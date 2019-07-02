@@ -7,5 +7,13 @@ description: "A collaborative map of the reconciliation ecosystem"
 url: "https://reconciliation-api.github.io/census/"
 repository: "reconciliation-api/census"
 
+include: ["_pages"]
+
+sidebar:
+  - title: "Clients"
+    nav: "clients"
+
 plugins:
   - jekyll-include-cache
+
+

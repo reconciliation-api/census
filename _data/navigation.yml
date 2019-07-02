@@ -1,3 +1,9 @@
 main:
   - title: "Services"
-    url: https://reconciliation-api.github.io/testbench/
+    url: /services/
+  - title: "Clients"
+    url: /clients/
+  - title: "Other protocols"
+    url: /other-protocols/
+  - title: "Libraries"
+    url: /libraries/
