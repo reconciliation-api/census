@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Reconciliation census
+
+This repository hosts a collaborative census of the reconciliation ecosystem: available services, clients, libraries, documented uses, and anything else we need to be aware of when drafting formal specifications for an improved protocol.
 
 You can use the [editor on GitHub](https://github.com/reconciliation-api/census/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
