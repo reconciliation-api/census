@@ -3,7 +3,7 @@ main:
     url: /services/
   - title: "Clients"
     url: /clients/
-  - title: "Other protocols"
-    url: /other-protocols/
   - title: "Libraries"
     url: /libraries/
+  - title: "Other protocols"
+    url: /other-protocols/
