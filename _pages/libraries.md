@@ -9,14 +9,14 @@ These can typically be used to build reconciliation services more easily.
 
 A similar list is available [on OpenRefine's wiki](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation-Service-Api#examples).
 
-### Conciliator
+### Java
 
 [Conciliatior](https://github.com/codeforkjeff/conciliator) is a Java framework to build reconciliation services easily.
 
-### Plack
+### Perl
 
-[Plack](https://github.com/nichtich/Plack-App-Reconcile) can help build reconciliation services as PSGI applications (in Ruby).
+[Plack-App-Reconcile](https://github.com/nichtich/Plack-App-Reconcile) can help to build reconciliation services as PSGI applications.
 
-### HAB
+### PHP
 
-[HAB](https://github.com/dmj/reconcile) is a PHP framework to build reconciliation services easily.
+[HAB Reconciliation Services](https://github.com/dmj/reconcile) is a PHP framework to build reconciliation services easily.
