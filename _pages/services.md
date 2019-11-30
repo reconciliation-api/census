@@ -31,9 +31,12 @@ Beyond publicly available hosted services, some software exposes reconciliation 
 
 ### reconcile-csv
 
-reconcile-csv can be used to run a reconciliation service off any CSV file.
+[reconcile-csv](http://okfnlabs.org/reconcile-csv/) can be used to run a reconciliation service off any CSV file.
 
 ### OpenRefine's RDF extension
 
-The RDF extension can be used to wrap a SPARQL endpoint into a reconciliation service.
+The [RDF extension](https://github.com/stkenny/grefine-rdf-extension) can be used to wrap a SPARQL endpoint into a reconciliation service.
 
+### Open Reconcile
+
+[Open Reconcile](https://github.com/OpenRefine/open-reconcile) is a project that can be used to run a reconciliation service on top of a SQL database.
