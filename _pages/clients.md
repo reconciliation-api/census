@@ -9,5 +9,6 @@ services using the reconciliation API.
 
 * [OpenRefine](http://openrefine.org/)
 * [Cocoda](https://coli-conc.gbv.de/cocoda/)
+* [Testbench](https://reconciliation-api.github.io/testbench/)
 * Any other?
 
