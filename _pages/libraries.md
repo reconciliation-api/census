@@ -20,3 +20,7 @@ A similar list is available [on OpenRefine's wiki](https://github.com/OpenRefine
 ### PHP
 
 [HAB Reconciliation Services](https://github.com/dmj/reconcile) is a PHP framework to build reconciliation services easily.
+
+### Python
+
+[Helmut](https://github.com/okfn/helmut) is a generic Python implementation of the reconciliation API.
