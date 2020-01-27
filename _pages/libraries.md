@@ -18,3 +18,4 @@ A similar list is available [on OpenRefine's wiki](https://github.com/OpenRefine
 | [Helmut](https://github.com/okfn/helmut)                                                       | Python    | 2012          |
 | [Reconciliation service skeleton](https://github.com/mblwhoi/reconciliation_service_skeleton)  | Python    | 2011          | 
 | [Nomenklatura](https://github.com/pudo-attic/nomenklatura)                                     | Python    | 2016          |
+| [Reconcile-demo](https://github.com/mikejs/reconcile-demo)                                     | Python    | 2010          |
