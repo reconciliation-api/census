@@ -10,6 +10,7 @@ services using the reconciliation API.
 * [OpenRefine](http://openrefine.org/)
 * [Cocoda](https://coli-conc.gbv.de/cocoda/)
 * [Alma Refine](https://developers.exlibrisgroup.com/appcenter/alma-refine/)
+* [reconciler](https://github.com/jvfe/reconciler)
 * [Testbench](https://reconciliation-api.github.io/testbench/)
 * Any other?
 
