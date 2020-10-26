@@ -6,6 +6,26 @@ permalink: /services/
 
 This page lists available reconciliation services.
 
+## Servers
+
+Beyond publicly available hosted services, some software exposes reconciliation endpoints locally.
+
+### reconcile-csv
+
+[reconcile-csv](http://okfnlabs.org/reconcile-csv/) can be used to run a reconciliation service off any CSV file.
+
+### OpenRefine's RDF extension
+
+The [RDF extension](https://github.com/stkenny/grefine-rdf-extension) can be used to wrap a SPARQL endpoint into a reconciliation service.
+
+### Open Reconcile
+
+[Open Reconcile](https://github.com/OpenRefine/open-reconcile) is a project that can be used to run a reconciliation service on top of a SQL database.
+
+### datasette-reconcile
+
+[datasette-reconcile](https://github.com/drkane/datasette-reconcile) is a plugin for [Datasette](https://docs.datasette.io/en/stable/) to expose a reconciliation endpoint from a table stored in a Datasette instance.
+
 ## Hosted services
 
 A list of hosted services is maintained on Wikidata and can be viewed
@@ -25,18 +45,3 @@ If your service fulfills these requirements, let us know about it by opening an 
 1. Optionally add a link to the documentation for the endpoint by adding a [described at URL (P973)](https://www.wikidata.org/wiki/Property:P973) or [user manual link (P2078)](https://www.wikidata.org/wiki/Property:P2078) qualifier.
 1. Optionally add a link to the source code for the endpoint by adding a [source code repository (P1324)](https://www.wikidata.org/wiki/Property:P1324) qualifier.
 
-## Servers
-
-Beyond publicly available hosted services, some software exposes reconciliation endpoints locally.
-
-### reconcile-csv
-
-[reconcile-csv](http://okfnlabs.org/reconcile-csv/) can be used to run a reconciliation service off any CSV file.
-
-### OpenRefine's RDF extension
-
-The [RDF extension](https://github.com/stkenny/grefine-rdf-extension) can be used to wrap a SPARQL endpoint into a reconciliation service.
-
-### Open Reconcile
-
-[Open Reconcile](https://github.com/OpenRefine/open-reconcile) is a project that can be used to run a reconciliation service on top of a SQL database.
