@@ -10,9 +10,13 @@ This page lists available reconciliation services.
 
 Beyond publicly available hosted services, some software exposes reconciliation endpoints locally.
 
+### csv-reconcile
+
+[csv-reconcile](https://pypi.org/project/csv-reconcile/) is a Python based project can be used to run a reconciliation service off any CSV file.
+
 ### reconcile-csv
 
-[reconcile-csv](http://okfnlabs.org/reconcile-csv/) can be used to run a reconciliation service off any CSV file.
+[reconcile-csv](http://okfnlabs.org/reconcile-csv/) is a Clojure based project can be used to run a reconciliation service off any CSV file.
 
 ### OpenRefine's RDF extension
 
