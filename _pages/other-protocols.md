@@ -39,3 +39,7 @@ page](http://oaei.ontologymatching.org/2019/seals/index.html).
 ## SemTab
 
 [SemTab](https://www.cs.ox.ac.uk/isg/challenges/sem-tab) stands for annual Semantic Web Challenge on Tabular Data to Knowledge Graph Matching collocated with the [International Semantic Web Conference](http://www.semanticweb.org). The systems for semantic table interpretation are benchmarked using [SemTab evaluators](https://github.com/sem-tab-challenge/aicrowd-evaluator). The specifications for each task in SemTab are documented at [AIcrowd](https://www.aicrowd.com/organizers/tabular-data-to-knowledge-graph-matching).
+
+## Questioning Authority
+
+[Questioning Authority](https://github.com/samvera/questioning_authority) is a web service that wraps various authority databases into one unified API that can be used to search for records by text, similarly to the reconciliation API. It is used in the library communities.
