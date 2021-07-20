@@ -42,4 +42,4 @@ page](http://oaei.ontologymatching.org/2019/seals/index.html).
 
 ## Questioning Authority
 
-[Questioning Authority](https://github.com/samvera/questioning_authority) is a web service which exposes authority databases and offers a unified search API on top of them.
+[Questioning Authority](https://github.com/samvera/questioning_authority) is a web service that wraps various authority databases into one unified API that can be used to search for records by text, similarly to the reconciliation API. It is used in the library communities.
