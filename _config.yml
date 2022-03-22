@@ -1,4 +1,6 @@
-remote_theme: "mmistakes/minimal-mistakes@4.16.4"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+atom_feed:
+  hide: true
 
 title: "Reconciliation census"
 name: "W3C Entity Reconciliation Community Group"
