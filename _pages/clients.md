@@ -13,5 +13,6 @@ services using the reconciliation API.
 * [reconciler](https://github.com/jvfe/reconciler)
 * [SemTUI](https://arxiv.org/abs/2203.09521)
 * [Testbench](https://reconciliation-api.github.io/testbench/)
+* [TEI Publisher](https://teipublisher.com)
 * Any other?
 
