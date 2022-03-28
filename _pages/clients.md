@@ -11,6 +11,7 @@ services using the reconciliation API.
 * [Cocoda](https://coli-conc.gbv.de/cocoda/)
 * [Alma Refine](https://developers.exlibrisgroup.com/appcenter/alma-refine/)
 * [reconciler](https://github.com/jvfe/reconciler)
+* [SemTUI](https://arxiv.org/abs/2203.09521)
 * [Testbench](https://reconciliation-api.github.io/testbench/)
 * Any other?
 
