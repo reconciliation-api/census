@@ -6,7 +6,7 @@ permalink: /libraries/
 
 This page lists known frameworks and libraries around the reconciliation API.
 These can typically be used to build reconciliation services more easily.
-Tools to run local reconciliation services are listed under [Services](/services/).
+Tools to run local reconciliation services are listed under [Services](../services/).
 
 | Name                                                                                           | Language  | Last updated  |
 |------------------------------------------------------------------------------------------------|-----------|--------------:|
