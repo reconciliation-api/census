@@ -18,4 +18,5 @@ Tools to run local reconciliation services are listed under [Services](../servic
 | [Nomenklatura](https://github.com/opensanctions/nomenklatura)                                  | Python    | 2022          |
 | [Reconcile-demo](https://github.com/mikejs/reconcile-demo)                                     | Python    | 2010          |
 | [Reconciliation service skeleton](https://github.com/mblwhoi/reconciliation_service_skeleton)  | Python    | 2011          |
+| [Reconciliation](https://github.com/preftech/reconciliation)                                   | Python    | 2022          |
 | [skohub-reconcile](https://github.com/rg-mpg-de/skohub-reconcile)                              | JavaScript| 2022          |
