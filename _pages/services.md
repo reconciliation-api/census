@@ -30,6 +30,10 @@ The [RDF extension](https://github.com/stkenny/grefine-rdf-extension) can be use
 
 [datasette-reconcile](https://github.com/drkane/datasette-reconcile) is a plugin for [Datasette](https://docs.datasette.io/en/stable/) to expose a reconciliation endpoint from a table stored in a Datasette instance.
 
+## SANTé
+
+[SANTé](https://github.com/AKSW/sante) is a tool to make RDF datasets searcheable. Among others, it exposes a reconciliation endpoint on top of the RDF dataset it hosts.
+
 ## Hosted services
 
 A list of hosted services is maintained on Wikidata and can be viewed
