@@ -43,3 +43,7 @@ page](http://oaei.ontologymatching.org/2019/seals/index.html).
 ## Questioning Authority
 
 [Questioning Authority](https://github.com/samvera/questioning_authority) is a web service that wraps various authority databases into one unified API that can be used to search for records by text, similarly to the reconciliation API. It is used in the library communities.
+
+## Common Terminology Services 2
+
+The [Common Terminology Service 2](https://www.omg.org/cts2/) specification defines an interface to a vocabulary system in the medical domain. The [D2Refine](https://github.com/caCDE-QA/D2Refine) project exposes such systems as reconciliation services in OpenRefine, which seems to suggest that they might have similarities with the reconciliation protocol we develop in this group. It should therefore be investigated.
