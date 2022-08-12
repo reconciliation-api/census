@@ -12,6 +12,7 @@ Tools to run local reconciliation services are listed under [Services](../servic
 |------------------------------------------------------------------------------------------------|-----------|--------------:|
 | [Conciliator](https://github.com/codeforkjeff/conciliator)                                     | Java      | 2020          |
 | [Open Reconcile](https://code.google.com/archive/p/open-reconcile/)                            | Java      | 2012          |
+| [ReconToolkit](https://github.com/wetneb/ReconToolkit)                                         | Java      | 2022          |
 | [Plack-App-Reconcile](https://github.com/nichtich/Plack-App-Reconcile)                         | Perl      | 2015          |
 | [HAB Reconciliation Services](https://github.com/dmj/reconcile)                                | PHP       | 2019          |
 | [Helmut](https://github.com/okfn/helmut)                                                       | Python    | 2012          |
