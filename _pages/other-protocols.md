@@ -19,7 +19,7 @@ Entity linking (spotting mentions of entities in text) and entity matching (link
 
 ## OpenSearch
 
-[OpenSearch](http://www.opensearch.org/Home) is a protocol that can be used
+[OpenSearch](https://en.wikipedia.org/wiki/OpenSearch) is a protocol that can be used
 by search engines to expose their results in a uniform way, to be consumed
 by client applications such as web browsers.
 
