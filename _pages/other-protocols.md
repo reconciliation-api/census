@@ -47,3 +47,8 @@ page](http://oaei.ontologymatching.org/2019/seals/index.html).
 ## Common Terminology Services 2
 
 The [Common Terminology Service 2](https://www.omg.org/cts2/) specification defines an interface to a vocabulary system in the medical domain. The [D2Refine](https://github.com/caCDE-QA/D2Refine) project exposes such systems as reconciliation services in OpenRefine, which seems to suggest that they might have similarities with the reconciliation protocol we develop in this group. It should therefore be investigated.
+
+## Simple Standard for Sharing Ontology Mappings
+
+The [Simple Standard for Sharing Ontology Mappings](https://mapping-commons.github.io/sssom/spec/) is a format to represent correspondences between ontologies (but works also at the instance level). Beyond stating that a given URI in vocabulary matches another one in another vocabulary, they also make it possible to state, the type of match (using SKOS) and the reason why the match was established (for instance because the URIs have similar names), the values which were matched and likely other things.
+See for instance [this TSV file](https://raw.githubusercontent.com/mapping-commons/sssom/master/examples/embedded/mp-hp-exact-0.0.1.sssom.tsv) which represents matching between two ontologies.
