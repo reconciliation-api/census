@@ -15,5 +15,6 @@ services using the reconciliation API.
 * [SemTUI](https://arxiv.org/abs/2203.09521)
 * [Testbench](https://reconciliation-api.github.io/testbench/)
 * [TEI Publisher](https://teipublisher.com)
+* [py-reconciliation-service-api](https://github.com/derenrich/py-reconciliation-service-api) (Python library)
 * Any other?
 
