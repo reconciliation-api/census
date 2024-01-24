@@ -16,5 +16,6 @@ services using the reconciliation API.
 * [Testbench](https://reconciliation-api.github.io/testbench/)
 * [TEI Publisher](https://teipublisher.com)
 * [py-reconciliation-service-api](https://github.com/derenrich/py-reconciliation-service-api) (Python library)
+* [reconcile-cli](https://github.com/nichtich/reconcile-cli) (command-line interface written in Bash)
 * Any other?
 
