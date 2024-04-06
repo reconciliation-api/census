@@ -13,26 +13,22 @@ Beyond publicly available hosted services, some software exposes reconciliation 
 ### csv-reconcile
 
 [csv-reconcile](https://pypi.org/project/csv-reconcile/) is a Python based project can be used to run a reconciliation service off any CSV file.
+It supports version 0.2 of the protocol.
 
 ### reconcile-csv
 
-[reconcile-csv](http://okfnlabs.org/reconcile-csv/) is a Clojure based project can be used to run a reconciliation service off any CSV file.
+[reconcile-csv](https://okfnlabs.org/projects/reconcile-csv/) is a Clojure based project can be used to run a reconciliation service off any CSV file.
+It supports version 0.1 of the protocol.
 
 ### OpenRefine's RDF extension
 
 The [RDF extension](https://github.com/stkenny/grefine-rdf-extension) can be used to wrap a SPARQL endpoint into a reconciliation service.
-
-### Open Reconcile
-
-[Open Reconcile](https://github.com/OpenRefine/open-reconcile) is a project that can be used to run a reconciliation service on top of a SQL database.
+It supports version 0.1 of the protocol.
 
 ### datasette-reconcile
 
 [datasette-reconcile](https://github.com/drkane/datasette-reconcile) is a plugin for [Datasette](https://docs.datasette.io/en/stable/) to expose a reconciliation endpoint from a table stored in a Datasette instance.
-
-### SANTé
-
-[SANTé](https://github.com/AKSW/sante) is a tool to make RDF datasets searcheable. Among others, it exposes a reconciliation endpoint on top of the RDF dataset it hosts.
+It supports version 0.2 of the protocol.
 
 ## Hosted services
 
