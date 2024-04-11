@@ -17,5 +17,7 @@ services using the reconciliation API.
 * [TEI Publisher](https://teipublisher.com)
 * [py-reconciliation-service-api](https://github.com/derenrich/py-reconciliation-service-api) (Python library)
 * [reconcile-cli](https://github.com/nichtich/reconcile-cli) (command-line interface written in Bash)
+* [Footlight Console](https://console.footlight.io) (SaaS not open to public)
+* [Footlight CMS](http://cms.footlight.io) (SaaS CMS by invitation only)
 * Any other?
 
