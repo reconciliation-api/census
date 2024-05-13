@@ -20,4 +20,6 @@ to support.
 | [TEI Publisher](https://teipublisher.com)                                                                     | ?                  |
 | [py-reconciliation-service-api](https://github.com/derenrich/py-reconciliation-service-api) (Python library)  | 0.2                |
 | [reconcile-cli](https://github.com/nichtich/reconcile-cli) (command-line interface written in Bash)           | 0.1, 0.2, draft    |
+| [Footlight Console](https://console.footlight.io) (SaaS not open to public)                                   | ?                  |
+| [Footlight CMS](http://cms.footlight.io) (SaaS CMS by invitation only)                                        | ?                  |
 
