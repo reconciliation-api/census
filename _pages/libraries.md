@@ -16,8 +16,8 @@ Tools to run local reconciliation services are listed under [Services](../servic
 | [Plack-App-Reconcile](https://github.com/nichtich/Plack-App-Reconcile)                         | Perl      | 2015          |
 | [HAB Reconciliation Services](https://github.com/dmj/reconcile)                                | PHP       | 2019          |
 | [Helmut](https://github.com/okfn/helmut)                                                       | Python    | 2012          |
-| [Nomenklatura](https://github.com/opensanctions/nomenklatura)                                  | Python    | 2023          |
+| [Nomenklatura](https://github.com/opensanctions/nomenklatura)                                  | Python    | 2024          |
 | [Reconcile-demo](https://github.com/mikejs/reconcile-demo)                                     | Python    | 2010          |
 | [Reconciliation service skeleton](https://github.com/mblwhoi/reconciliation_service_skeleton)  | Python    | 2011          |
 | [Reconciliation](https://github.com/preftech/reconciliation)                                   | Python    | 2022          |
-| [skohub-reconcile](https://github.com/rg-mpg-de/skohub-reconcile)                              | JavaScript| 2023          |
+| [skohub-reconcile](https://github.com/skohub-io/skohub-reconcile)                              | JavaScript| 2024          |
