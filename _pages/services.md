@@ -30,6 +30,9 @@ It supports version 0.1 of the protocol.
 [datasette-reconcile](https://github.com/drkane/datasette-reconcile) is a plugin for [Datasette](https://docs.datasette.io/en/stable/) to expose a reconciliation endpoint from a table stored in a Datasette instance.
 It supports version 0.2 of the protocol.
 
+### Discogs reconciliation
+[discogsreconciliation](https://github.com/judaicadh/discogsreconciliation) is a Python based self-hosted reconciliation service for the [Discogs](https://www.discogs.com/developers/) music catalog API.
+
 ## Hosted services
 
 A list of hosted services is maintained on Wikidata and can be viewed
