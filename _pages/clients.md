@@ -16,10 +16,11 @@ to support.
 | [reconciler](https://github.com/jvfe/reconciler) (Python library)                                             | 0.1, 0.2           |
 | [reconciler](https://github.com/Global-Witness/reconciler) (R library)                                        | 0.1, 0.2           |
 | [SemTUI](https://arxiv.org/abs/2203.09521)                                                                    | 0.1, 0.2?          |
-| [Testbench](https://reconciliation-api.github.io/testbench/)                                                  | 0.1, 0.2           |
+| [Testbench](https://reconciliation-api.github.io/testbench/0.2/)                                              | 0.1, 0.2           |
+| [Testbench](https://reconciliation-api.github.io/testbench/1.0/)                                              | 1.0-draft          |
 | [TEI Publisher](https://teipublisher.com)                                                                     | ?                  |
 | [py-reconciliation-service-api](https://github.com/derenrich/py-reconciliation-service-api) (Python library)  | 0.2                |
 | [reconcile-cli](https://github.com/nichtich/reconcile-cli) (command-line interface written in Bash)           | 0.1, 0.2, draft    |
 | [Footlight Console](https://console.footlight.io) (SaaS not open to public)                                   | 0.2                |
-| [Footlight CMS](http://cms.footlight.io) (SaaS CMS by invitation only)                                        | 0.2                |
-
+| [Footlight CMS](http://cms.footlight.io) (SaaS CMS by invitation only)                                        | 1.0-draft          |
+| [Artsdata.ca](https://kg.artsdata.ca) (Ruby on Rails/React App)                                               | 1.0-draft          |
